@@ -15,7 +15,8 @@
 }
 
 let result = multiply(5, 4);
-alert( result );'''
+alert( result );'''  
+
   ## Aducation:   
   **University:**    Belarusion State Technological Universitety, Environmental Enginer;
   **Courses:** Web layout designer: the beginning; [https://wayup.in/library/course10]
