@@ -1,6 +1,10 @@
  
 # Kristina Dudkova   
 
+# Kristina Dudkova   
+![myphoto](/img/myphoto
+.jpg )
+
 ## My Contacts Info:  
 
 ***Location:*** Minsk, Belarus  
