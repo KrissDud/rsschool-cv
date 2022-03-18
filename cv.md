@@ -1,6 +1,6 @@
 
 # Kristina Dudkova   
-![myphoto](/img/myphoto.jpg)
+![myphoto](/img/myphoto.jpg =250x)
 
 ## My Contacts Info:  
 
