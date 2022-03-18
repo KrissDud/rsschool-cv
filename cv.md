@@ -1,9 +1,6 @@
- 
-# Kristina Dudkova   
 
 # Kristina Dudkova   
-![myphoto](/img/myphoto
-.jpg )
+![myphoto](/img/myphoto.jpg)
 
 ## My Contacts Info:  
 
@@ -21,7 +18,7 @@
   
   ## Code Exampel:
 ```
- function multiply(a, b) {
+function multiply(a, b) {
   return a * b;
 }
 let result = multiply(5, 4);
@@ -33,7 +30,7 @@ alert( result );
 
   **University:**    Belarusion State Technological Universitety, Environmental Enginer;  
 
-  **Courses:** Web layout designer: the beginning; [https://wayup.in/library/course10]
+  **Courses:** [Web layout designer: the beginning](https://wayup.in/library/course10)
 
   ## Skills:  
    * HTML5  
