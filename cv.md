@@ -1,0 +1,41 @@
+# Kristina Dudkova  
+![myphoto](/img/myphoto.png)
+
+## My Contacts Info:  
+
+***Location:*** Minsk, Belarus  
+
+***Phone:*** +375-29-766-15-52  
+
+***E-mail:*** newdks@mail.ru  
+
+***GitHab:*** KrissDud  
+
+  ## About Me: 
+After completing the course "Web layout designer: the beginning" I understood exactly what I want to do. I was captivated by the process of learning HTML, CSS, JS and this is exactly the direction in which I want to develop.  
+  
+  ## Code Exampel:
+```
+function multiply(a, b) {
+  return a * b;
+}
+let result = multiply(5, 4);
+alert( result );  
+ 
+```  
+
+  ## Aducation:   
+
+  **University:**    Belarusion State Technological Universitety, Environmental Enginer;  
+
+  **Courses:** 
+  * [Web layout designer: the beginning](https://wayup.in/library/course10)
+  * [The Rolling Scopes(stage 0)](https://app.rs.school/certificate/i1mcj93f)
+
+  ## Skills:  
+   * HTML5  
+   * CSS3  
+   * JavaScript   
+
+  ## English:   
+  A1(I am learning English using the Duolingo app and Polyglot video tutorials).
