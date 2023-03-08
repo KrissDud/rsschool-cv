@@ -1,5 +1,5 @@
 # Kristina Dudkova  
-![myphoto](/img/myphoto.jpg)
+![myphoto](/img/myphoto.png)
 
 ## My Contacts Info:  
 
@@ -28,8 +28,9 @@ alert( result );
 
   **University:**    Belarusion State Technological Universitety, Environmental Enginer;  
 
-  **Courses:** [Web layout designer: the beginning](https://wayup.in/library/course10)
-  [The Rolling Scopes(stage 0)](https://app.rs.school/certificate/i1mcj93f)
+  **Courses:** 
+  * [Web layout designer: the beginning](https://wayup.in/library/course10)
+  * [The Rolling Scopes(stage 0)](https://app.rs.school/certificate/i1mcj93f)
 
   ## Skills:  
    * HTML5  
