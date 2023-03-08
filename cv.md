@@ -1,4 +1,5 @@
 # Kristina Dudkova  
+![myphoto](/img/myphoto.jpg)
 
 ## My Contacts Info:  
 
